@@ -1,1 +1,1 @@
-# Javascript knowledge
+# JavaScript knowledge
